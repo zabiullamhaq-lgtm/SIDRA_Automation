@@ -1,0 +1,51 @@
+# Local credentials, owner material and environments
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+# Public developer note is redacted; the original local note stays private.
+!SIDRA_Owner_Only.txt
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.publication-review/
+
+# All study models, workbooks, backups and binary distributions require review
+*.[sS][iI][pP]*
+*.[xX][lL][sS]*
+*.[bB][aA][kK]
+*.tmp
+~$*
+*.zip
+*.7z
+*.rar
+*.dll
+*.exe
+*.tlb
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.ipynb
+
+# Generated study artifacts may contain confidential inputs and paths
+SIDRA_Results*/
+results/
+outputs/
+run_details.json
+run_manifest.json
+Volume_Audit.csv
+Run_Log.csv
+
+# Editors and OS
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

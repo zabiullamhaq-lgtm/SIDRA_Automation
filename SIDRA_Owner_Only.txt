@@ -1,0 +1,12 @@
+Public developer copy: editing password redacted; original local password unchanged.
+
+
+
+Workbook: SIDRA_Automation_Formatted.xlsm
+Sheet and workbook-structure password: [obtain privately from the owner]
+
+Excel: Review > Unprotect Sheet / Protect Workbook.
+Owner/developer credits are locked; pale-yellow input cells remain editable.
+Excel protection deters ordinary editing; it is not encryption or tamper-proof protection.
+Author metadata in File > Info cannot be made immutable by worksheet protection.
+SIDRA 9.0 is verified. Later versions require compatibility testing.

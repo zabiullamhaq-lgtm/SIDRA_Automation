@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.bas text eol=crlf
+LICENSE -text
+SIDRA_Owner_Only.txt -text whitespace=cr-at-eol
