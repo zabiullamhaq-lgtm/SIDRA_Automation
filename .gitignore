@@ -17,6 +17,9 @@ __pycache__/
 htmlcov/
 .publication-review/
 
+# Explicit local unrestricted file
+SIDRA_Automation_Unrestricted
+
 # All study models, workbooks, backups and binary distributions require review
 *.[sS][iI][pP]*
 *.[xX][lL][sS]*
